@@ -2,7 +2,7 @@
 - 👀 I’m an Electrical Engineer, doing specialization in Smart Grid. In my free time I enjoy sports
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: https://www.linkedin.com/in/taha-abdullah-kasbati/
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Look busy, do nothing :)
 
 <!---
